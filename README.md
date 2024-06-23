@@ -1,4 +1,4 @@
-## Clone-iCloud-Landing-Page
+# Clone-iCloud-Landing-Page
 
 iCloud Landing Page Clone built using HTML and CSS.
 
